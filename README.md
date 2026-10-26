@@ -22,5 +22,3 @@ streamlit run app.py
 
 The database is created automatically at `data/recallmap.db`. It is excluded from Git by `.gitignore`.
 
-## Notes
-Recall scores are self-assessments. The current graph uses manually saved links; it does not automatically infer semantic relationships. This is a local single-user starter app, not a multi-user authenticated service.
